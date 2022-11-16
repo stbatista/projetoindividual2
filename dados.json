@@ -1,0 +1,81 @@
+{    
+    "Hamburgueres":[
+        {"Id": "1",        
+        "Nome": "X Vegano",
+        "Igrediente 1": "Pão",
+        "Igrediente 2": "Alface",
+        "Igrediente 3": "Tomate",
+        "Igrediente 4": "Molho"
+
+        },
+
+        {"Id": "2",
+        "Nome": "X picanha",
+        "Igrediente 1": "Pão",
+        "Igrediente 2": "Alface",
+        "Igrediente 3": "Picanha",
+        "Igrediente 4": "Queijo Cheddar",
+        "Igrediente 5": "Bacon",
+        "Igrediente 6": "Ovo"
+
+        },
+
+        {"Id": "3",
+        "Nome": "X frango",
+        "Igrediente 1": "Pão",
+        "Igrediente 2": "Alface",
+        "Igrediente 3": "Hamburguer de frango",
+        "Igrediente 4": "Queijo mussarela",
+        "Igrediente 5": "Azeite",
+        "Igrediente 7": "Ovo",
+        "Igrediente 6": "Mostarda"
+
+        },
+
+        {"Id": "4",
+        "Nome": "Haburguer simples",
+        "Igrediente 1": "Pão",
+        "Igrediente 2": "Alface",
+        "Igrediente 3": "Carne",
+        "Igrediente 4": "Ovo"
+    }
+    ],
+
+    "Batatas":[
+        {
+            "id": 1,
+            "nome":"Pequena"
+        },
+        {
+            "id": 2,
+            "nome":"Média"
+        },
+        {
+            "id": 3,
+            "nome":"Grande"
+        },
+        {
+            "id": 4,
+            "nome":"Extra grande"
+        }
+    ],
+    "Sorvetes":[
+        {
+            "id":1,
+            "nome":"Chocolate"
+        },
+        {
+            "id": 2,
+            "nome":"Baunilha"
+        },
+        {
+            "id": 3,
+            "nome":"Morango"
+        },
+        {
+            "id": 4,
+            "nome":"Milho verde"
+        }
+
+    ]
+}
